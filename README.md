@@ -18,15 +18,15 @@ still demonstrating the core ideas behind an emulator.
 
 ### Pong
 
-<video src="assets/pong.mp4" width="800" controls></video>
+![Pong gameplay](assets/pong.gif)
 
-[Open the Pong gameplay video](assets/pong.mp4)
+[Open the original MP4 recording](assets/pong.mp4)
 
 ### Tetris
 
-<video src="assets/tetris.mp4" width="800" controls></video>
+![Tetris gameplay](assets/tetris.gif)
 
-[Open the Tetris gameplay video](assets/tetris.mp4)
+[Open the original MP4 recording](assets/tetris.mp4)
 
 ## Features
 

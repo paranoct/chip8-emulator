@@ -18,15 +18,15 @@ CHIP-8 — небольшой интерпретируемый язык и ви�
 
 ### Pong
 
-<video src="assets/pong.mp4" width="800" controls></video>
+![Игра Pong](assets/pong.gif)
 
-[Открыть видеозапись игры Pong](assets/pong.mp4)
+[Открыть исходную запись в формате MP4](assets/pong.mp4)
 
 ### Tetris
 
-<video src="assets/tetris.mp4" width="800" controls></video>
+![Игра Tetris](assets/tetris.gif)
 
-[Открыть видеозапись игры Tetris](assets/tetris.mp4)
+[Открыть исходную запись в формате MP4](assets/tetris.mp4)
 
 ## Возможности
 
