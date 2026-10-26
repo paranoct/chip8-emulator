@@ -1,0 +1,9 @@
+# Ignore everything by default.
+# Only the project source, documentation, and demo assets are published.
+*
+!.gitignore
+!README.md
+!README.ru.md
+!main.cpp
+!assets/
+!assets/**
